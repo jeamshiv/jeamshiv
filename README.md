@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeamshiv&show_icon&local=en&layout=compact" alt="jeamshiv top languages">
  
-[<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>]
+ <h3>My Skills
+<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>
+<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>
+<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>
+<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>
