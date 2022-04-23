@@ -3,6 +3,8 @@
 
 <!--My Profile ![Profile Counter](https://views.whatilearened.today/views/github/jeamshiv/creative-profile-readme.svg) -->
 
+-
+
 - 🔭 I’m currently working as a **Jr. Software Engineer** at Scaleupally.
 
 - 🌱 I’m currently learning **NodeJs Express :sparkling_heart:**
@@ -25,6 +27,8 @@
  <h3>My Skills</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+ 
 </div>
 
 <h3></h3>
