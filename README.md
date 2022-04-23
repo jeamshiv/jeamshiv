@@ -15,6 +15,8 @@
 
 - 📫 How to reach me: **jeamshiv@gmail.com**
 
+- 👨‍💻 &nbsp;Read more about my projects at [jeamshiv.netlify.com](https://jeamshiv.netlify.com)
+
 - ⚡ Fun fact: **Love coding until it works :sweat_smile:**
 
 
