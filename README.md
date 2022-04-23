@@ -24,7 +24,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeamshiv&show_icon&local=en&layout=compact" alt="jeamshiv top languages">
  
- <h3>My Skills</h3>
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
