@@ -75,10 +75,10 @@
 
 - **[Nmas (N+)](https://www.nmas.com.mx)** — Large-scale news media platform for Mexico built with Next.js, GraphQL & Tailwind CSS, optimized for performance and accessibility.
 - **[Cryptordle](https://cryptordle.com)** — Cross-platform crypto game with a React Native mobile app, Next.js web app & admin panel.
-- **CaratIQ** — Jewelry business platform with Stripe & Clearent payment gateway integrations, POS terminal support, and PDF label printing. *(Node.js, Strapi, GraphQL, React.js)*
-- **Podcet** — End-to-end podcast theme booking system with Stripe payments, passwordless login & automated email reminders. *(Next.js, Node.js, Strapi)*
-- **Ignou Tutor** — Web & mobile app giving IGNOU students access to study material, question papers and grade cards. *(Next.js, React Native, Firebase, Node.js, MySQLi)*
-- **NCERT New Books** — AI-powered React Native Expo app for NCERT books & audiobooks with text-to-speech and text-to-image generation. *(React Native Expo, Firebase, Cloudflare R2, xAI, Hugging Face)*
+- **[CaratIQ](https://www.caratiq.com/)** — Jewelry business platform with Stripe & Clearent payment gateway integrations, POS terminal support, and PDF label printing. *(Node.js, Strapi, GraphQL, React.js)*
+- **[Podcet](https://podcet.com/)** — End-to-end podcast theme booking system with Stripe payments, passwordless login & automated email reminders. *(Next.js, Node.js, Strapi)*
+- **[Ignou Tutor](https://ignoututor.com)** — Web & mobile app giving IGNOU students access to study material, question papers and grade cards. *(Next.js, React Native, Firebase, Node.js, MySQLi)*
+- **[NCERT New Books](https://play.google.com/store/apps/details?id=com.ncertnewbooks.app)** — AI-powered React Native Expo app for NCERT books & audiobooks with text-to-speech and text-to-image generation. *(React Native Expo, Firebase, Cloudflare R2, xAI, Hugging Face)*
 - **RTF Insurance** — Responsive insurance website built with Next.js and Prismic headless CMS.
 - **Exuity** — Online real estate auction platform connecting property owners with investors. *(Next.js, React.js, Node.js, MySQLi)*
 - **Lawyered** — Stripe payment integration for legal contract & e-signature services.
